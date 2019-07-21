@@ -11,9 +11,9 @@ learning package for Python into SageMaker.
 
 Follow these steps:
 
-1. In your notebook instance, click on the top level folder.
-2. Navigate to `sample-notebooks / advanced_functionality / scikit_bring_your_own`
-3. Open the `scikit_bring_your_own.ipynb` notebook, the follow the directions in the notebook.
+1. In your notebook instance, click on the `SageMaker Samples` tab.
+2. Open the `scikit_bring_your_own.ipynb` notebook from the `Advanced Functionality` section.
+3. Follow the directions in the notebook.
 
 There are two main parts in this example:
 

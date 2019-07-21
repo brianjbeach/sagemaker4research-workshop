@@ -7,3 +7,9 @@ In this lab we will be using images of handwritten digits from the [MNIST Databa
 3. Follow the directions in the notebook.
 
 <p><strong>NOTE:  training the model for this example typically takes about 8 minutes.</strong></p>
+
+## Extra Credit
+
+1. How would a GPU change training time?  Rather than training on two ml.c4.xlarge try training with one ml.p2.xlarge.
+2. Sometimes you don't need a cluster for training. You can train your model on the notebook instance. Try running the `tensorflow_local_mode_mnist.ipynb` notebook.
+3. Rather than configuring an endpoint for real time inference, you may want to process a large batch of samples. Try running the `tensorflow_batch_transform_mnist.ipynb` notebook.

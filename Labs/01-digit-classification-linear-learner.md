@@ -7,10 +7,9 @@ use a Jupyter notebook and the [SageMaker Python SDK](https://github.com/aws/sag
 pre-process data, train a model, create a SageMaker hosted endpoint, and make predictions against this endpoint - 
 completing a full machine learning workflow end-to-end.
 
-1. In your notebook instance, click on the top level folder.
-2. Navigate to `sample-notebooks / introduction_to_amazon_algorithms / linear_learner_mnist`
-3. Open the `linear_learner_mnist.ipynb` notebook, the follow the directions in the notebook.
-4. In the `bucket = '<your_s3_bucket_name_here>'` code line, paste the name of the S3 bucket you created in Module 1 to 
+1. In your notebook instance, click on the `SageMaker Samples` tab.
+2. Open the `linear_learner_mnist.ipynb` notebook from the `Introduction to Amazon Algorithms` section which should already be expanded.
+3. Follow the directions in the notebook. In the `bucket = '<your_s3_bucket_name_here>'` code line, paste the name of the S3 bucket you created in Module 1 to 
    replace `<your_s3_bucket_name_here>`.  The code line should now read similar to `bucket = 'smworkshop-john-smith'`.
    Do NOT paste the entire path (s3://.......), just the bucket name.
 

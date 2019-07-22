@@ -12,7 +12,8 @@ During this workshop, you'll explore various data sets, create model training jo
 
 If you are using the shared account you can log in [here](https://carpentry2019.signin.aws.amazon.com/console). 
 
-You can download the slides [here](https://beabrian-public.s3.amazonaws.com/unc-carpentry-2019/aws-slieds.pdf).
+You can download the slides [here](https://beabrian-public.s3.amazonaws.com/unc-carpentry-2019/aws-slides.pdf).
+
 
 ### AWS Account
 

@@ -10,11 +10,6 @@ During this workshop, you'll explore various data sets, create model training jo
 
 ## Prerequisites
 
-If you are using the shared account you can log in [here](https://carpentry2019.signin.aws.amazon.com/console). 
-
-You can download the slides [here](https://beabrian-public.s3.amazonaws.com/unc-carpentry-2019/aws-slides.pdf).
-
-
 ### AWS Account
 
 In order to complete this workshop you'll need an AWS Account, and an AWS IAM user in that account with at least full permissions to the following AWS services: 
